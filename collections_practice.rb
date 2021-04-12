@@ -49,4 +49,3 @@ end
 def add_s(arr)
   arr.each {|str| str << "s" unless str == arr[1]}
 end
-
